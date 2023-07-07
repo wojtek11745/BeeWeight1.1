@@ -11,6 +11,7 @@ Added printing back of time stamps and increased baud rate
 Andy Wickert
 5/15/2011
 
+To set time use example from libraries
 */
 
 #include <DS3231.h>
